@@ -52,4 +52,3 @@ All backend APIs tested using Thunder Client (VS Code extension)
 
 ---
 
-## 📂 Folder Structure
